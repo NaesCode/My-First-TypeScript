@@ -1,6 +1,6 @@
 # PartA-My-First-TypeScript
-Learning TypeScript/JavaScript Fundamentals
-This code contains practice syntax and logic that encompasses the following concepts:
+Learning TypeScript/JavaScript Fundamentals.
+This code contains practice syntax and logic that plays around the following concepts:
 1. Variable Types
 2. Functions
 3. Arrays
